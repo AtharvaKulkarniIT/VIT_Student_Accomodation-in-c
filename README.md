@@ -27,13 +27,13 @@ The program uses a hash-based data structure to store and manage student records
    
    git clone https://github.com/your-username/VIT-Student-Accommodation.git
    cd VIT-Student-Accommodation
-   ```
+   
 
 2. Compile and run the program:
    
    gcc -o main main.c
    ./main
-   ```
+   
 
 3. Follow the on-screen instructions to perform various tasks like data retrieval, NCGPA calculation, and room allotment during counseling.
 
