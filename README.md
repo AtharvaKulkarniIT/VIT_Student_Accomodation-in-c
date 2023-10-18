@@ -1,6 +1,6 @@
 # VIT Student Accommodation
 
-This program is designed to manage the accommodation of students at VIT . It allows you to input student details, search for specific students, display records, calculate NCGPA (Normalized Cumulative Grade Point Average), and perform room allotment during the counseling process.The code uses arrays, structures,merge sort and linked lists to manage student records and hash tables (arrays of pointers to `struct hash`) to organize students by branch and slot for efficient data storage and retrieval.
+This program is designed to manage the accommodation of students at VIT . It allows you to input student details, search for specific students, display records, calculate NCGPA (Normalized Cumulative Grade Point Average), and perform room allotment during the counseling process.The code uses arrays, structures, file handling , merge sort and linked lists to manage student records and hash tables (arrays of pointers to `struct hash`) to organize students by branch and slot for efficient data storage and retrieval.
 
 ## Table of Contents
 - [Introduction](#introduction)
