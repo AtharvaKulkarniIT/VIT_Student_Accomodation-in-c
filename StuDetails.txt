@@ -1,0 +1,12 @@
+1 Yash 9.74 1 1
+2 Atharva 9.76 1 1
+3 Tejas 9.81 1 2
+4 Om 8.53 1 2
+5 Abhishek 8.95 2 1
+6 Ashutosh 8.11 2 1
+7 Digvijayy 8.50 2 2
+8 Shravan 7.31 2 2
+9 Varad 8.72 3 1
+10 Harsh 9.63 3 1
+11 Prathmesh 10 3 2
+12 Aneesh 8.21 3 2
