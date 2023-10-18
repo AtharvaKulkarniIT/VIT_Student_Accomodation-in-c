@@ -25,7 +25,7 @@ The program uses a hash-based data structure to store and manage student records
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/VIT-Student-Accommodation.git
+   git clone https://github.com/AtharvaKulkarniIT/VIT-Student-Accommodation-in-c.git
    ```
    ```
 
