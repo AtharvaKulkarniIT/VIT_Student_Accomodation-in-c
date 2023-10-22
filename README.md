@@ -1,4 +1,8 @@
 # VIT Student Accommodation
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
+[![GitHub Forks](https://img.shields.io/github/forks/AtharvaKulkarniIT/Online-Voting-System-TCP.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Online-Voting-System-TCP/fork)
+[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Online-Voting-System-TCP.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Online-Voting-System-TCP/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
 This program is designed to manage the accommodation of students at VIT . It allows you to input student details, search for specific students, display records, calculate NCGPA (Normalized Cumulative Grade Point Average), and perform room allotment during the counseling process.The code uses arrays, structures, file handling , merge sort and linked lists to manage student records and hash tables (arrays of pointers to `struct hash`) to organize students by branch and slot for efficient data storage and retrieval.
 
