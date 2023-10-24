@@ -53,6 +53,3 @@ Contributions to this project are welcome. If you want to contribute, please ope
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can create a new GitHub repository, give it the name "VIT-Student-Accommodation," and then upload the code and README.md to the repository.
